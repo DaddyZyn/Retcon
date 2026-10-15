@@ -1,0 +1,23 @@
+# Build and binaries
+build/
+bin/
+out/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.ilk
+*.exp
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.suo
+*.user
+*.vcxproj.user
+
+# CMake
+CMakeSettings.json
+CMakeFiles/
+CMakeCache.txt

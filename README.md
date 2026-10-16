@@ -1,3 +1,6 @@
+#Tests were ran by ai so there might be a few bugs
+
+
 # retcon
 
 Freestanding x64 synthetic call stack fabricator and return address spoofer for Windows.  
